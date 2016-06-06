@@ -4,3 +4,6 @@ Exploring the Node Js world, by doing all the tutorials @ [nodeschool](https://n
 
 Done, so far:
 - javascripting
+
+Doing:
+- learnyounode
